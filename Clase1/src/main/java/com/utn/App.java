@@ -25,6 +25,7 @@ public class App
     		emp.setCorreo("ElFlaco@spinetta.com.ar");
     		emp.setIdEmployee(1);
     		
+    		
     		// Me genero un administrador ( manager) que me permitira interactuar con la base de datos
     		EntityManager et = persistence.createEntityManager();
     		

@@ -17,7 +17,6 @@ public class EmpleadoEntity implements Serializable{
 	private static final long serialVersionUID = 5430384620754563967L;
 
 	@Id
-	@GeneratedValue(strategy=GenerationType.AUTO)
 	private int idEmployee;
 	 
 	@Column(name="email")
