@@ -1,0 +1,5 @@
+com\utn\data\PeliculaDao.class
+com\utn\rest\PeliculaRestController.class
+com\utn\App.class
+com\utn\entity\PeliculaEntity.class
+com\utn\model\Pelicula.class
